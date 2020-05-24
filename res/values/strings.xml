@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelTogether</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Splash -->
+    <string name="free_travel_app">FREE TRAVEL APP</string>
+    <string name="help_lable">HELP INDIA GROW INDIA</string>
+    <string name="find_your_ride_lable">FIND YOUR RIDE</string>
+    <string name="register_ride_lable">REGISTER  RIDE</string>
+    <string name="ride_seeker_lable">RIDE SEEKER</string>
+    <string name="rider_lable">RIDER</string>
+    <string name="vehicle_registration_lable">VEHICLE REGISTERATION \n choose your userID(Vehicle no)</string>
+    <string name="vehicle_regist_lable">Vehicle no</string>
+    <string name="name_lable">Name</string>
+    <string name="type_lable">Vehicle type</string>
+    <string name="start_point_lable">To</string>
+    <string name="city_name_lable">City name</string>
+    <string name="area_name_lable">Area name</string>
+    <string name="End_point_lable">From</string>
+    <string name="time_lable">Time</string>
+    <string name="date_lable">Date</string>
+    <string name="IntrestedPartnerOptional_lable">Intrested partner(Optional)</string>
+    <string name="Contact_no_lable">Contact no</string>
+    <string name="rider">RIDER</string>
+    <string name="Done">DONE</string>
+    <string name="pic_a_place_lable">PICK A PLACE</string>
+    <string name="pic_place_lable">PICK PLACE</string>
+    <string name="ride_find_ride_lable">FIND RIDE</string>
+    <string name="IntrestedPartnerOptional">(Interested partner optional)</string>
+    <string name="title_activity_location_">Location_Activity</string>
+
+</resources>

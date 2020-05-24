@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- Splash -->
+    <dimen name="free_travel_app_size">25sp</dimen>
+    <dimen name="help_lable_size">12sp</dimen>
+    
+    <dimen name="txtvehical_register_size">12sp</dimen>
+    <dimen name="edit_text_height">35dp</dimen>
+    
+    <dimen name="register_text_size">18sp</dimen>
+    
+    <dimen name="custome_row_search">16sp</dimen>
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeFindYourRide"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/background_blue"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/txtRider"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/editext_corner"
+            android:gravity="center"
+            android:padding="6dp"
+            android:text="@string/rider_lable"
+            android:textColor="#42abfe"
+            android:textSize="@dimen/free_travel_app_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/background"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/txtRideSeeker"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/editext_corner"
+            android:gravity="center"
+            android:padding="6dp"
+            android:text="@string/ride_seeker_lable"
+            android:textColor="#81ab50"
+            android:textSize="@dimen/free_travel_app_size" />
+    </LinearLayout>
+
+</LinearLayout>

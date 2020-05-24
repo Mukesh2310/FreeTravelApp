@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearMain"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/layout_corner"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linearmain1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10" >
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+                android:inputType="textCapSentences"
+                android:padding="10dp"
+                android:text="Name"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/custome_row_search" />
+
+            <TextView
+                android:id="@+id/txtDate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="21-10-2015"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/txtvehical_register_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearmain2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txtType"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+                android:padding="10dp"
+                android:text="Type"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/custome_row_search" />
+
+            <TextView
+                android:id="@+id/txttime"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="10:10 PM"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/txtvehical_register_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

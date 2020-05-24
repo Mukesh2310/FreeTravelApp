@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="country">
+        <item>Agartala</item>
+        <item>Agra</item>
+        <item>Agumbe</item>
+        <item>Ahmedabad</item>
+        <item>Aizawl</item>
+        <item>Ajmer</item>
+        <item>Alappuzha Beach</item>
+        <item>Allahabad</item>
+        <item>Alleppey</item>
+        <item>Almora</item>
+        <item>Amarnath</item>
+        <item>Amritsar</item>
+        <item>Anantagir</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Araku valley</item>
+        <item>Aurangabad</item>
+        <item>Ayodhya</item>
+        <item>Badrinath</item>
+        <item>Bandhavgarh National Park</item>
+        <item>Bangalore</item>
+        <item>Baroda</item>
+        <item>Bastar</item>
+        <item>Bhagalpur</item>
+        <item>Bhilai</item>
+        <item>Bhimtal</item>
+        <item>Bhopal</item>
+        <item>Bhubaneswar</item>
+        <item>Bhuj</item>
+        <item>Bidar</item>
+        <item>Bilaspur</item>
+        <item>Bodh Gaya</item>
+        <item>Calicut</item>
+        <item>Chandigarh</item>
+        <item>Chail</item>
+        <item>Chamba</item>
+        <item>Chennai</item>
+        <item>Chennai Beaches</item>
+        <item>Cherai</item>
+        <item>Cherrapunji</item>
+        <item>Chopta</item>
+        <item>Chidambaram</item>
+        <item>Chikhaldara Hills</item>
+        <item>Coimbatore</item>
+        <item>Coonoor</item>
+        <item>Coorg</item>
+        <item>Corbett National Park</item>
+        <item>Cotigao Wild Life Sanctuary</item>
+        <item>Cuttack</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Dalhousie</item>
+        <item>Darjeeling</item>
+        <item>Dehradun</item>
+        <item>Delhi</item>
+        <item>Devikulam</item>
+        <item>Dharamashala</item>
+        <item>Dhanaulti</item>
+        <item>Dindigul</item>
+        <item>Dudhwa National Park</item>
+        <item>Dwaraka</item>
+        <item>Faridabad</item>
+        <item>Gandhinagar</item>
+        <item>Gangotri</item>
+        <item>Gangtok</item>
+        <item>Gir Wildlife Sanctuary</item>
+        <item>Great Himalayan National Park</item>
+        <item>Goa</item>
+        <item>Gwalior</item>
+        <item>Gulmarg</item>
+        <item>Gurgaon</item>
+        <item>Guruvayoor</item>
+        <item>Guwahati</item>
+        <item>Hampi</item>
+        <item>Haridwar</item>
+        <item>Hogenakkal</item>
+        <item>Horsley-Hills</item>
+        <item>Hyderabad</item>
+        <item>Imphal</item>
+        <item>Itangar</item>
+        <item>Indore</item>
+        <item>Idukki</item>
+        <item>Jaipur</item>
+        <item>Jaisalmer</item>
+        <item>Jabalpur</item>
+        <item>Jalandhar</item>
+        <item>Jamshedpur</item>
+        <item>Jammu</item>
+        <item>Jodhpur</item>
+        <item>Kanchipuram</item>
+        <item>Kanha National Park</item>
+        <item>Kanpur</item>
+        <item>Kanyakumari</item>
+        <item>Kargil</item>
+        <item>Karwar</item>
+        <item>Kausani</item>
+        <item>Kedarnath</item>
+        <item>Keoladeoghana National Park</item>
+        <item>Khajuraho</item>
+        <item>Kochi</item>
+        <item>Kodaikanal</item>
+        <item>Kolkata</item>
+        <item>Kollam</item>
+        <item>Konark</item>
+        <item>Kotagiri</item>
+        <item>Kottakkal and Ayurveda</item>
+        <item>Kovalam</item>
+        <item>Kovalam and Ayurveda</item>
+        <item>Kudremukh</item>
+        <item>Kullu</item>
+        <item>Kumarakom</item>
+        <item>Kumarakom and Ayurveda</item>
+        <item>Kumarakom Bird Sanctuary</item>
+        <item>Kumaon</item>
+        <item>Kurukshetra</item>
+        <item>Lakshadweep</item>
+        <item>Ludhiana</item>
+        <item>Lucknow</item>
+        <item>Madurai</item>
+        <item>Mahabalipuram</item>
+        <item>Malpe Beach</item>
+        <item>Manas National Park</item>
+        <item>Mangalore</item>
+        <item>Mumbai</item>
+        <item>Margoa</item>
+        <item>Maravanthe Beach</item>
+        <item>Mount Abu</item>
+        <item>Munnar</item>
+        <item>Mussoorie</item>
+        <item>Mysore</item>
+        <item>Nahsik</item>
+        <item>Nalanda</item>
+        <item>Nandi-Hills</item>
+        <item>Nanda Devi National Park</item>
+        <item>Netravali Wild Life Sanctuary</item>
+        <item>Ooty</item>
+        <item>Orchha</item>
+        <item>Pahalgam</item>
+        <item>Palakkad</item>
+        <item>Patnitop</item>
+        <item>Patna</item>
+        <item>Panchgani</item>
+        <item>Pattadakkal</item>
+        <item>Periyar Wildlife Sanctuary</item>
+        <item>Pithoragarh</item>
+        <item>Pondicherry</item>
+        <item>Pune</item>
+        <item>Puri</item>
+        <item>Pushkar</item>
+        <item>Raipur</item>
+        <item>Rajgir</item>
+        <item>Rajaji National Park</item>
+        <item>Ranchi</item>
+        <item>Ranganthittu Bird Sanctuary</item>
+        <item>Ranthambore</item>
+        <item>Ranikhet</item>
+        <item>Rameshwaram</item>
+        <item>Rishikesh</item>
+        <item>Rourkela</item>
+        <item>Sanchi</item>
+        <item>Saputara</item>
+        <item>Sariska Wildlife Sanctuary Shillong</item>
+        <item>Sohna_Hills</item>
+        <item>Shimla</item>
+        <item>Sunderbans</item>
+        <item>Surat</item>
+        <item>Srinagar</item>
+        <item>Thanjavur</item>
+        <item>Tezpur</item>
+        <item>Thrissur</item>
+        <item>Tirunelveli</item>
+        <item>Trichy</item>
+        <item>Tirupati</item>
+        <item>Thiruvananthapuram</item>
+        <item>Udaipur</item>
+        <item>Ujjain</item>
+        <item>Vaishali</item>
+        <item>Valley of Flowers</item>
+        <item>Varanasi</item>
+        <item>Varkala and Ayurveda</item>
+        <item>Vijayawada</item>
+        <item>Vishakhapatnam</item>
+        <item>Vrindhavan</item>
+        <item>Warangal</item>
+        <item>Wayanad</item>
+        <item>Wayanad Wildlife Sanctuary</item>
+        <item>Yercaud</item>
+        <item>Zanskar</item>
+    </string-array>
+
+</resources>

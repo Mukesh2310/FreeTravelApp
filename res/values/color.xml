@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================================================================= Application =============================================== -->
+    <color name="default_off_white_color">#fcfcfc</color>
+    <color name="default_grey_color">#d7d7d7</color>
+    <color name="default_font_hint_color">#d1d1d1</color>
+    <color name="default_edittext_border_color">#e7e7e7</color>
+    <color name="default_button_color">#10765e</color>
+    <color name="splash_top">#00c2c2</color>
+    <color name="find_your_background">#baed66</color>
+
+    <!-- ================================================================= Splash Screen =============================================== -->
+    <color name="AgreeAndContinueBackgroundColor">#76C9D4</color>
+    <color name="txtTapToCoontinueBackgroundColor">#092121</color>
+
+    <!-- ================================================================= Header =============================================== -->
+    <color name="actionbar_color">#29e0b4</color>
+
+    <!-- ================================================================= Meeting =============================================== -->
+    <color name="priority_text_color">#717171</color>
+    <color name="priority_header_text_color">#272727</color>
+
+    <!-- ================================================================= Tab Header =============================================== -->
+    <color name="tab_unselected_color">#10765e</color>
+
+    <!-- ================================================================= Sliding Menu =============================================== -->
+    <color name="drawer_listitem_selected_color">#0a2627</color>
+    <color name="sliding_green">#8FCC85</color>
+    <color name="sliding_blue">#ff33b5e5</color>
+    <color name="light_green">#3e6e70</color>
+    <color name="accept_color">#1ed988</color>
+    <color name="ads_color">#10765E</color>
+    <color name="dark_orange">#e55f3c</color>
+    <color name="red">#e81536</color>
+    <color name="btngreen">#1dda88</color>
+    <color name="btngray">#e7e7e7</color>
+    <color name="btnred">#e61735</color>
+    <color name="darkgray">#646464</color>
+    <color name="btnbackgroung">#10765e</color>
+    <color name="toggle_select">#aed8c0</color>
+    <color name="light_gray">#f7f3e8</color>
+    <color name="unblock">#29e0b4</color>
+    <color name="light_gray_btn_back">#C0C0C0</color>
+
+    <!-- ================================================================= Calendar =============================================== -->
+    <color name="green">#8FCC85</color>
+    <color name="blue">#ff33b5e5</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="caldroid_white">#FFFFFF</color>
+    <color name="caldroid_black">#000000</color>
+    <color name="caldroid_transparent">#00000000</color>
+    <!-- For settings framework -->
+    <color name="caldroid_lighter_gray">#ddd</color>
+    <color name="caldroid_gray">#CCC</color>
+    <color name="caldroid_darker_gray">#aaa</color>
+    <color name="caldroid_middle_gray">#888</color>
+    <!-- A light Holo shade of blue -->
+    <!-- <color name="caldroid_holo_blue_light">#ff33b5e5</color> -->
+    <!-- A dark Holo shade of blue -->
+    <!-- <color name="caldroid_holo_blue_dark">#ff0099cc</color> -->
+    <!-- A really bright Holo shade of blue -->
+    <color name="caldroid_sky_blue">#FFA3E8F7</color>
+    <color name="caldroid_333">#333</color>
+    <color name="caldroid_555">#555</color>
+    <color name="caldroid_light_red">#ff7f7f</color>
+    <color name="caldroid_weekday_color">#6b6b6b</color>
+    <color name="caldroid_disabled_date_color">#cecccd</color>
+    <color name="caldroid_pre_next_month_date_color">#cecccd</color>
+    <color name="caldroid_current_month_color">#a9a9a9</color>
+
+    <!-- Custom L Dialogs -->
+    <color name="LDialogs_transparent">#00000000</color>
+    <color name="LDialogs_dim_lighter_gray">#80E0E0E0</color>
+
+</resources>

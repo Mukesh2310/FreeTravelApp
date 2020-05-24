@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLocationMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_blue"
+    tools:context="com.freetravelapp.Location_Activity" >
+
+    <com.freetravelapp.placeautocomplete.CustomAutoCompleteTextView
+        android:id="@+id/editAdress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/editext_corner"
+        android:ems="10"
+        android:hint="Search your place"
+        android:padding="10dp" />
+
+    <ProgressBar
+        android:id="@+id/custom_progress"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@+id/editAdress"
+        android:layout_alignRight="@+id/editAdress"
+        android:layout_alignTop="@+id/editAdress"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@drawable/circuler_progress_color"
+        android:visibility="gone" />
+
+</RelativeLayout>
